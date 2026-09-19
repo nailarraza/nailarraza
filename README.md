@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&pause=500&duration=2000&color=FF00FF&center=true&vCenter=true&width=800&lines=I'm+Muh+Nailar+Raza;I'm+a+Personal+Developer." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&pause=500&duration=2000&color=FF00FF&center=true&vCenter=true&width=800&lines=I'm+Muh+Nailar+Raza;I'm+a+Staff+IT+and+AI+Teacher." alt="Typing Animation" />
 </p>
 
 <p align="left"> 
